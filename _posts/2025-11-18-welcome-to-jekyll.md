@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll 블로그에 오신 것을 환영합니다!"
 date: 2025-11-18 00:00:00 +0900
-categories: jekyll blog
+categories: [Jekyll, Blog]
 tags: [jekyll, github-pages, blog]
 ---
 
