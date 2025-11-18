@@ -44,3 +44,6 @@ Desktop.ini
 
 # Logs
 *.log
+
+# etc
+*.code-workspace
