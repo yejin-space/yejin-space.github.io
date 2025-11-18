@@ -1,0 +1,38 @@
+# Site settings
+title: Yejin's Blog
+description: Welcome to my personal blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yejin-space.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Permalink settings
+permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Author information
+author:
+  name: Yejin
+  email: your-email@example.com
+
+# Social links (optional)
+# github_username: yejin-space
+# twitter_username: your_username
