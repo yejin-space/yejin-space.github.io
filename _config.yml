@@ -16,11 +16,11 @@ timezone: Asia/Seoul
 
 title: NaughtyError
 
-tagline: A tiny trouble in the system, figuring out its own way to live as an error.
+tagline: :::::못된에러:::::<br>::ノティエラ::<br> A tiny trouble in the system,<br>figuring out its own way to live as an error.
 
 description: >-
-  NaughtyError is a personal tech blog where small errors, debugging stories, and coding insights come together to show how a developer learns to live in the system.
-  NaughtyError는 작은 에러들, 디버깅 경험, 코딩 인사이트를 통해 개발자가 시스템 속에서 살아가는 법을 배워가는 과정을 담은 개인 기술 블로그입니다.
+  NaughtyError is a personal tech blog where small errors, debugging stories, and coding insights come together to show how a developer learns to live in the world.
+  NaughtyError는 작은 에러들, 디버깅 경험, 코딩 인사이트를 통해 개발자가 세상 속에서 살아가는 법을 배워가는 과정을 담은 개인 기술 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 url: "https://yejin-space.github.io"
